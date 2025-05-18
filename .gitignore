@@ -1,0 +1,49 @@
+# Node.js
+node_modules/
+package-lock.json
+yarn.lock
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build output
+dist/
+build/
+out/
+
+# Environment variables
+.env
+.env.local
+.env.development
+.env.development.local
+.env.production
+.env.production.local
+
+# Temporary files
+tmp/
+temp/
+*.log
+*.swp
+*.swo
+*~
+.DS_Store
+.vscode/
+.idea/
+
+# TypeScript (if applicable)
+*.tsbuildinfo
+
+# Coverage data
+coverage/
+
+.vscode/
+
+# IntelliJ/WebStorm
+# .idea/
+
+# Eclipse
+# .metadata/
+
+# OS-specific files
+Thumbs.db
+ehthumbs.db
